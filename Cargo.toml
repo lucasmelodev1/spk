@@ -2,6 +2,9 @@
 name = "spk"
 version = "0.1.0"
 edition = "2021"
+authors = ["Lucas Melo"]
+description = "A binary crate that prints in the console what you pass as arguments. With the flag -e it will undertand backslash commands like \\n, \\r, \\t"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
